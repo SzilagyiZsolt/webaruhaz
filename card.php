@@ -1,40 +1,42 @@
-<div class="card col-lg-6" style="width: 18rem;">
-  <img src="img/kocsi1.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">MAZDA MX-5</h5>
-    <p class="card-text">Jármű ára:	7 480 000 Ft <br> EUR ár:	€ 19 486</p>
-    <a href="index.php?button=kocsi1" class="btn btn-primary">Bővebben</a>
+<div class="row">
+  <div class="card col-lg-3" style="width: 18rem;">
+    <img src="img/kocsi1.jpg" class="card-img-top img2" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">MAZDA MX-5</h5>
+      <p class="card-text">Jármű ára:	7 480 000 Ft <br> EUR ár:	€ 19 486</p>
+      <a href="kocsi1.php" class="btn btn-primary">Bővebben</a>
+    </div>
   </div>
-</div>
-<div class="card col-lg-6" style="width: 18rem;">
-  <img src="img/kocsi2.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">MAZDA 2 Hybrid 1.5 Pure</h5>
-    <p class="card-text">Jármű ára:	8 700 000 Ft <br> EUR ár:	€ 22 497</p>
-    <a href="index.php?button=kocsi2" class="btn btn-primary">Bővebben</a>
+  <div class="card col-lg-3" style="width: 18rem;">
+    <img src="img/kocsi2.jpg" class="card-img-top img2" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">MAZDA 2 Hybrid 1.5 Pure</h5>
+      <p class="card-text">Jármű ára:	8 700 000 Ft <br> EUR ár:	€ 22 497</p>
+      <a href="kocsi2.php" class="btn btn-primary">Bővebben</a>
+    </div>
   </div>
-</div>
-<div class="card col-lg-6" style="width: 18rem;">
-  <img src="img/kocsi3.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">SUZUKI SWIFT 1.3</h5>
-    <p class="card-text">Jármű ára:	95 000 Ft <br> EUR ár:	€ 248</p>
-    <a href="index.php?button=kocsi3" class="btn btn-primary">Bővebben</a>
+  <div class="card col-lg-3" style="width: 18rem;">
+    <img src="img/kocsi3.jpg" class="card-img-top img2" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">SUZUKI SWIFT 1.3</h5>
+      <p class="card-text">Jármű ára:	95 000 Ft <br> EUR ár:	€ 248</p>
+      <a href="kocsi3.php" class="btn btn-primary">Bővebben</a>
+    </div>
   </div>
-</div>
-<div class="card col-lg-6" style="width: 18rem;">
-  <img src="img/kocsi4.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">MAZDA 626 2.0 DiTD CE</h5>
-    <p class="card-text">Jármű ára:	135 000 Ft <br> EUR ár:	€ 351</p>
-    <a href="index.php?button=kocsi4" class="btn btn-primary">Bővebben</a>
+  <div class="card col-lg-3" style="width: 18rem;">
+    <img src="img/kocsi4.jpg" class="card-img-top img2" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">MAZDA 626 2.0 DiTD CE</h5>
+      <p class="card-text">Jármű ára:	135 000 Ft <br> EUR ár:	€ 351</p>
+      <a href="kocsi4.php" class="btn btn-primary">Bővebben</a>
+    </div>
   </div>
-</div>
-<div class="card col-lg-6" style="width: 18rem;">
-  <img src="img/kocsi5.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h5 class="card-title">MITSUBISHI CARISMA 1.8 GDI L</h5>
-    <p class="card-text">Jármű ára:	140 000 Ft <br> EUR ár:	€ 365</p>
-    <a href="index.php?button=kocsi5" class="btn btn-primary">Bővebben</a>
+  <div class="card col-lg-3" style="width: 18rem;">
+    <img src="img/kocsi5.jpg" class="card-img-top img2" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">MITSUBISHI CARISMA 1.8 GDI L</h5>
+      <p class="card-text">Jármű ára:	140 000 Ft <br> EUR ár:	€ 365</p>
+      <a href="kocsi5.php" class="btn btn-primary">Bővebben</a>
+    </div>
   </div>
 </div>
